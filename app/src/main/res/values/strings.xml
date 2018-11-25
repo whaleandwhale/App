@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="name">用户名：</string>
+    <string name="please_name">请输入用户名</string>
+    <string name="password">密码：</string>
+    <string name="please_password">请输入密码</string>
+    <string name="text">登录</string>
+    <string name="register">注册</string>
+    <string name="set_password">设置密码:</string>
+    <string name="tel">手机号:</string>
+    <string name="set_password_2">确认密码:</string>
+    <string name="add">添加</string>
+    <string name="name1">名字</string>
+    <string name="price">价格</string>
+    <string name="add_photo">添加图片</string>
+    <string name="order">我的订单</string>
+    <string name="shop">我的店铺</string>
+</resources>
